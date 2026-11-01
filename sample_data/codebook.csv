@@ -1,0 +1,20 @@
+item,construct_code,construct,wording,scale
+ATT1,ATT,Attitude towards EVs,Buying an EV would be a good idea,1 = Strongly disagree ... 5 = Strongly agree
+ATT2,ATT,Attitude towards EVs,I like the idea of driving an EV,1 = Strongly disagree ... 5 = Strongly agree
+ATT3,ATT,Attitude towards EVs,Using an EV would be beneficial for me,1 = Strongly disagree ... 5 = Strongly agree
+ATT4,ATT,Attitude towards EVs,I have a positive opinion of EVs,1 = Strongly disagree ... 5 = Strongly agree
+SN1,SN,Subjective norms,People important to me think I should buy an EV,1 = Strongly disagree ... 5 = Strongly agree
+SN2,SN,Subjective norms,My family would approve of me buying an EV,1 = Strongly disagree ... 5 = Strongly agree
+SN3,SN,Subjective norms,My friends expect me to consider an EV,1 = Strongly disagree ... 5 = Strongly agree
+PBC1,PBC,Perceived behavioural control,I could afford an EV if I wanted to,1 = Strongly disagree ... 5 = Strongly agree
+PBC2,PBC,Perceived behavioural control,Buying an EV is entirely within my control,1 = Strongly disagree ... 5 = Strongly agree
+PBC3,PBC,Perceived behavioural control,I have the knowledge to choose an EV,1 = Strongly disagree ... 5 = Strongly agree
+EC1,EC,Environmental concern,I am worried about air pollution in my city,1 = Strongly disagree ... 5 = Strongly agree
+EC2,EC,Environmental concern,Vehicle emissions harm the environment,1 = Strongly disagree ... 5 = Strongly agree
+EC3,EC,Environmental concern,I try to reduce my environmental impact,1 = Strongly disagree ... 5 = Strongly agree
+CI1,CI,Charging infrastructure,Charging stations are available where I live,1 = Strongly disagree ... 5 = Strongly agree
+CI2,CI,Charging infrastructure,I could charge an EV easily at home or work,1 = Strongly disagree ... 5 = Strongly agree
+CI3,CI,Charging infrastructure,Public charging in my city is reliable,1 = Strongly disagree ... 5 = Strongly agree
+PI1,PI,Purchase intention,I intend to buy an EV in the next two years,1 = Strongly disagree ... 5 = Strongly agree
+PI2,PI,Purchase intention,I will consider an EV for my next vehicle,1 = Strongly disagree ... 5 = Strongly agree
+PI3,PI,Purchase intention,I would recommend EVs to others,1 = Strongly disagree ... 5 = Strongly agree
