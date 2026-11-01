@@ -42,13 +42,20 @@ On Windows, use `.venv\Scripts\activate` instead.
 Install the dependencies:
 
 ```bash
-pip install -r requirements.txt
+python -m pip install -r requirements.txt
 ```
+
+### Windows notes
+* If you see `'pip' is not recognized` or `'python' is not recognized`, use the Python launcher `py` instead:
+  `py -m pip install -r requirements.txt` and `py -m streamlit run Home.py`.
+* If `py --version` also fails, Python is not installed. Install it from <https://www.python.org/downloads/>
+  and tick **"Add python.exe to PATH"** on the first screen of the installer. Then open a **new** Command Prompt.
+* No Git? On the GitHub page choose **Code → Download ZIP**, extract it, and `cd` into the extracted folder.
 
 ## 2. Starting the application
 
 ```bash
-streamlit run Home.py
+python -m streamlit run Home.py
 ```
 
 Your browser opens at <http://localhost:8501>. If it does not, open that address yourself.
